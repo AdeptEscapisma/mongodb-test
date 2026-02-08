@@ -1,0 +1,1 @@
+export const DEFAULT_SEED_COUNT = 10_000_000;
