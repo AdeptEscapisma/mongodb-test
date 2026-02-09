@@ -40,6 +40,7 @@ $ yarn start:prod # Запуск в production режиме
 ```
 
 ## Тесты
+Для запуска тестов необходимо установить [Grafana k6](https://grafana.com/docs/k6/latest/set-up/install-k6/).
 Реализовано два нагрузочных теста по эндпоинту `GET /records` - с индексом и без индекса:
 
 ```bash
